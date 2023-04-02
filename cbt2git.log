@@ -1,0 +1,11 @@
+2023-04-03 01:34:21.502759 - Initialized conversion of CBT634
+2023-04-03 01:34:21.541689 - Received CBT.V504.FILE634.PDS from FILE634.XMI 
+2023-04-03 01:34:21.544197 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE634.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:34:21.545180 - Found $ASSEMBL.jcl (text/plain) in CBT.V504.FILE634.PDS, moved to PDS/$ASSEMBL
+2023-04-03 01:34:21.546268 - Found $BATJCL.jcl (text/plain) in CBT.V504.FILE634.PDS, moved to PDS/$BATJCL
+2023-04-03 01:34:21.547423 - Found $INSTALL.txt (text/plain) in CBT.V504.FILE634.PDS, moved to PDS/$INSTALL
+2023-04-03 01:34:21.552329 - Found $LOADLIB.xmi (application/xmit) in CBT.V504.FILE634.PDS
+2023-04-03 01:34:21.558428   - Received RECFM=U data, stored XMIT file as CBT634/$LOADLIB.xmi
+2023-04-03 01:34:21.559454 - Found @FILE634.txt (text/plain) in CBT.V504.FILE634.PDS, moved to PDS/@FILE634
+2023-04-03 01:34:21.559464 - Found LISTUCB.bin containing application/octet-stream, moved to PDS/LISTUCB
+2023-04-03 01:34:21.561297 - Found UCBSUBR.txt (text/plain) in CBT.V504.FILE634.PDS, moved to PDS/UCBSUBR
