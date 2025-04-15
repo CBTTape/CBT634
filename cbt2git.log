@@ -1,11 +1,11 @@
-2025-04-13 21:24:43.756018 - Received CBT.V508.FILE634.PDS from FILE634.XMI 
-2025-04-13 21:24:43.756840 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$$$#DATE
-2025-04-13 21:24:43.756928 - Found $ASSEMBL.jcl (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$ASSEMBL
-2025-04-13 21:24:43.757000 - Found $BATJCL.jcl (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$BATJCL
-2025-04-13 21:24:43.757064 - Found $INSTALL.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$INSTALL
-2025-04-13 21:24:43.757143 - Found $LOADLIB.xmi (application/xmit) in CBT.V508.FILE634.PDS, moved to PDS/$LOADLIB.xmi
-2025-04-13 21:24:43.763007 - Received SBGOLOB.UCBSUBR.LOAD from $LOADLIB.xmi 
-2025-04-13 21:24:43.763439 - Found UCBSUBR.bin (application/octet-stream) in SBGOLOB.UCBSUBR.LOAD, moved to $LOADLIB/UCBSUBR
-2025-04-13 21:24:43.763686 - Found @FILE634.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/@FILE634
-2025-04-13 21:24:43.763802 - Found LISTUCB.bin (application/octet-stream) in CBT.V508.FILE634.PDS, moved to PDS/LISTUCB
-2025-04-13 21:24:43.763888 - Found UCBSUBR.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/UCBSUBR
+2025-04-15 04:06:18.707233 - Received CBT.V508.FILE634.PDS from FILE634.XMI 
+2025-04-15 04:06:18.708522 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$$$#DATE
+2025-04-15 04:06:18.708750 - Found $ASSEMBL.jcl (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$ASSEMBL
+2025-04-15 04:06:18.709147 - Found $BATJCL.jcl (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$BATJCL
+2025-04-15 04:06:18.709370 - Found $INSTALL.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$INSTALL
+2025-04-15 04:06:18.709565 - Found $LOADLIB.xmi (application/xmit) in CBT.V508.FILE634.PDS, moved to PDS/$LOADLIB.xmi
+2025-04-15 04:06:18.714542 - Received SBGOLOB.UCBSUBR.LOAD from $LOADLIB.xmi 
+2025-04-15 04:06:18.715067 - Found UCBSUBR.bin (application/octet-stream) in SBGOLOB.UCBSUBR.LOAD, moved to $LOADLIB/UCBSUBR
+2025-04-15 04:06:18.715389 - Found @FILE634.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/@FILE634
+2025-04-15 04:06:18.715776 - Found LISTUCB.bin (application/octet-stream) in CBT.V508.FILE634.PDS, moved to PDS/LISTUCB
+2025-04-15 04:06:18.716046 - Found UCBSUBR.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/UCBSUBR
